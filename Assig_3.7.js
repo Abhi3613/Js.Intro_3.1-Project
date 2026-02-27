@@ -104,7 +104,7 @@ const total = nums.reduce((acc, curr) => {
 console.log(total);
 // Now Yeehaa work name Reduce but work Opposite it's work for reducing your Array in  But “reduce many values → into ONE final value”  Here use Add and tum isse multiply orr suntract kuch m bhi reduce kr sktehh h
 
-
+  
 
 //8.Now Find() --> Returns first matching element.
 const students = [
