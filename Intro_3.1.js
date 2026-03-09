@@ -12,12 +12,12 @@ console.log("Hello Champ")
 
 // 02. Null vs Undefined & typeof --
 let b = null;
-
 //b. Undefined 
 let a;
 console.log(a);
 
-// c.typeof Operator
+//--  c.typeof Operator
+
 typeof 10;        // "number"
 typeof true;      // "boolean"
 typeof "Hello";   // "string"
@@ -30,7 +30,8 @@ typeof undefined; // "undefined"
 5-3;  // 2
 10%10 // 0 etc..
 
-// Comparison Operators (== != === !== < >)
+// Comparison Operators (== != === !== < >) 
+
 10 == "10";   // true   
 7 === "7";  // false (Assign value and data type)
 
@@ -43,15 +44,17 @@ console.log(!6 == 4); // it Working Opposite to Our Condition..
 Number("5");  // 10
 String(10);    // "10"
 Boolean(2);    // trur
-Number("10");   // 10
+Number("10");   // 10  
 parseInt("20"); // 20
 Number("10");   // 10
 parseInt("20"); // 20
 
 //  Veriable and DataType  dec.. 3 Type in js 
-let name = "warner"; // js Allowed to changebal 
+let name = "warner";    // js Allowed to changebal 
 name = "Martin Guptil" // yes Done 
- const age = 25; // Not Change 
+const age = 25;       // Not Change 
+
+
 
 
 
